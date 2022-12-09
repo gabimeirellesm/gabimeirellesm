@@ -13,7 +13,7 @@
                                    
 <hr>
 
-<h3 align = "center">Tools and languages</h3>
+<h3>Tools and languages</h3>
     <p>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
@@ -128,10 +128,15 @@
         />
       </a>
 
-
-
+<hr>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimeirellesm&layout=compact)](https://github.com/gabimeirellesm/github-readme-stats)
+
+
+<br>
+<hr>
+<h3 align = "center">Contact me</h3>
+<h4 align = "center">🚀🚀🚀 Let's talk and exchange some ideas 🚀🚀🚀</h4>
 
 
