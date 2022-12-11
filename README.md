@@ -138,5 +138,15 @@
 <hr>
 <h3 align = "center">Contact me</h3>
 <h4 align = "center">🚀🚀🚀 Let's talk and exchange some ideas 🚀🚀🚀</h4>
-
+<br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/gabriela-meirelles-martins/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+          alt="linkedin"
+          width="40"
+          height="40"
+        />
+      </a>
+</p> 
 
