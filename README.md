@@ -137,7 +137,7 @@
 <br>
 <hr>
 <h3 align = "center">Contact me</h3>
-<h4 align = "center">🚀🚀🚀 Let's talk and exchange some ideas 🚀🚀🚀</h4>
+<h4 align = "center">🚀🚀🚀 Let's talk 🚀🚀🚀</h4>
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/gabriela-meirelles-martins/" target="_blank" rel="noreferrer">
