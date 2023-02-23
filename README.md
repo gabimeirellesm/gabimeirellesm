@@ -1,20 +1,24 @@
 <h3 align = "center">Hellooooooo 👋</h3>
 <h4 align = "center">I'm Gabi, a junior full stack web developer!</h4>
 <hr>
-<sub>🫶 I´m obsessed with solutions and passionate about results 🫶</sub><br>
-<sub>Currently learning about front and back-end and I have a case of love/hate with JavaScript 🤓</sub><br>
-<sub>Don't laugh 😅 On this CodeWars, I'm always training to improve myself doing some Katas ☠️ </sub><br>
-<sub>🤩 This is a space for learning and sharing information, so feedback and contributions are always welcome.</sub>
+<p align="center">
+<sub>🫶 I´m obsessed with solutions and passionate about results 🫶</sub><br> </p>
+<p align="center"><sub>Currently learning about front and back-end and I have a case of love/hate with JavaScript 🤓</sub><br></p>
+<p align="center"><sub>Don't laugh 😅 On this CodeWars, I'm always training to improve myself doing some Katas ☠️ </sub><br></p>
+<p align="center"><sub>🤩 This is a space for learning and sharing information, so feedback and contributions are always welcome.</sub></p>
 <br><br>
-<p align="" ><a href="https://www.codewars.com/users/gabimeirellesm"><img align="center"
+<p align="center"><a href="https://www.codewars.com/users/gabimeirellesm"><img align="center"
     src="https://www.codewars.com/users/gabimeirellesm/badges/large"
     alt="gabimeirellesm" 
                                    bg_color=#808080/></a></p>
                                    
+<p align="center"><a href="https://www.hackerrank.com/gb_meirellesmar1"><img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" width="200" height="105"></a>
+</p>                                
 <hr>
 
-<h3>Tools and languages</h3>
-    <p>
+<h3 align="center">Tools and languages</h3>
+<br>
+    <p align="center">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -127,14 +131,55 @@
           height="40"
         />
       </a>
-
-<hr>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimeirellesm&layout=compact)](https://github.com/gabimeirellesm/github-readme-stats)
-
-
-<br>
+      <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+        <img
+          src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
+          alt="java"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"
+          alt="c++"
+          width="40"
+          height="40"
+        />
+      </a>
+          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-logo.png"
+          alt="postgree"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/postman.svg"
+          alt="postman"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img
+          src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png"
+          alt="IntelliJ"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://codelite.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://tipsonubuntu.com/wp-content/uploads/2016/09/codelite-icon.jpg"
+          alt="Codelite"
+          width="40"
+          height="40"
+        />
+      </a>
+    <br>
 <hr>
 <h3 align = "center">Contact me</h3>
 <h4 align = "center">🚀🚀🚀 Let's talk 🚀🚀🚀</h4>
