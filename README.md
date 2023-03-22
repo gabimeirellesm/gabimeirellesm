@@ -12,7 +12,7 @@
     alt="gabimeirellesm" 
                                    bg_color=#808080/></a></p>
                                    
-<p align="center"><a href="https://www.hackerrank.com/gb_meirellesmar1"><img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" width="200" height="105"></a>
+<p align="center"><a href="https://www.hackerrank.com/gabimeirellesm"><img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" width="200" height="105"></a>
 </p>                                
 <hr>
 
