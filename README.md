@@ -4,7 +4,7 @@
 <p align="center">
 <sub>🫶 I´m obsessed with solutions and passionate about results 🫶</sub><br> </p>
 <p align="center"><sub>Currently learning about front and back-end and I have a case of love/hate with JavaScript 🤓</sub><br></p>
-<p align="center"><sub>Don't laugh 😅 On this CodeWars, I'm always training to improve myself doing some Katas ☠️ </sub><br></p>
+<p align="center"><sub>Don't laugh 😅 On CodeWars and HackerHank, I'm training to improve myself doing some Katas ☠️ </sub><br></p>
 <p align="center"><sub>🤩 This is a space for learning and sharing information, so feedback and contributions are always welcome.</sub></p>
 <br><br>
 <p align="center"><a href="https://www.codewars.com/users/gabimeirellesm"><img align="center"
